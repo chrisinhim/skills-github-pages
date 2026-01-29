@@ -1,5 +1,4 @@
 theme: minima
-title: This is the title
-author: This is the author
+title: title from the yaml file
+author: author name
 description: This is how the description will show up.
-
