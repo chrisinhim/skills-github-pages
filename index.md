@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Title Mentioned in the index.md!
 ---
 
 # Heading One
